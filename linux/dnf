@@ -1,3 +1,0 @@
-dnf check-update
-
-Non-interactively checks if updates of the specified packages are available

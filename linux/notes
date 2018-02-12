@@ -1,8 +1,0 @@
-# list the files installed from a package
-
-rpm -ql package-name
-
-
-# netstat
-
-$ sudo lsof -i -P -n | grep LISTEN
