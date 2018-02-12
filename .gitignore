@@ -1,3 +1,4 @@
-*.pdf
 *~
 cv-Chinese
+*.log
+*.synctex.gz
